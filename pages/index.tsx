@@ -31,7 +31,7 @@ export default function Index() {
         <Typography
           variant="h6"
           sx={{
-            color: green[50],
+            color: green[100],
             fontFamily: "'DM Sans', sans-serif",
           }}
         >
